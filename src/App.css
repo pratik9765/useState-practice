@@ -1,5 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
 .App {
+  
   text-align: center;
+  background-color: gray;
+  font-size: 50px;
+  font-style: bold;
+  width: 100vw;
+  height: 100vh;
 }
 
 .App-logo {
